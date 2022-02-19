@@ -1,0 +1,8 @@
+# ls -la to exa with icons
+alias ls="exa --icons"
+
+# cat to bat with new view
+alias cat="bat --style=auto"
+
+# vim to lvim
+alias vim="lvim"
